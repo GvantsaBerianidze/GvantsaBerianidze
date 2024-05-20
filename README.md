@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @GvantsaBerianidze</h1>
+<h1 align="center">👋 Hi, I’m Gvantsa Berianidze</h1>
 - 👀 I’m interested in Python Developing.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on AI and Machine Learning.
