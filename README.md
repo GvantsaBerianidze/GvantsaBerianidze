@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hi, I’m Gvantsa Berianidze</h1>
+
 - 👀 I’m interested in Python Developing.
+- 
 - 🌱 I’m currently learning Data Science.
+- 
 - 💞️ I’m looking to collaborate on AI and Machine Learning.
+- 
 - 📫 How to reach me :Send Email to me gvantsa.berianidzeh1990@gmail.com
 
 <!---
